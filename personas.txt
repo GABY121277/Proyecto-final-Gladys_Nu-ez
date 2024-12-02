@@ -1,0 +1,6 @@
+Nombre	Edad	Correo	Telefono	Domicilio
+Gladys	18	gladys.gabriela0901@gmail.com	5578342450	Calle 20 de noviembre, La Blanca
+Fernanda	18	Fer.barra@gmail.com	9941027213	Av. Independencia, Santo Domingo Ingenio
+Olivia	19	Oliv.1813@gmail.com	9712216108	2 da sección, Juchitán
+Emilio	18	Oliv.1813@gmail.com	9712216108	2 da sección, Juchitán
+Kevin	20	kevin.taquitl@gmail.com	9712063058	4 ta sección, Juchitán
